@@ -1,5 +1,7 @@
 # ImageColorization
 
-![scrrenshot](NoiseCanceling/console.PNG)
+![scrrenshot](res2.png)
 
-![scrrenshot](NoiseCanceling/FrequencyDomain.PNG)
+![scrrenshot](CGAN.png)
+
+![scrrenshot](prog2.png)
